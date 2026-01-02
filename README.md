@@ -25,7 +25,7 @@ The full pipeline was first developed and tested in the Gazebo simulation enviro
 
 ## 🔄 Dynamic Grasping on Rotating Stage
 
-![Dynamic Grasping](Objects%20grasping%20and%20stacking/dynamic_grasping.png)
+![Dynamic Grasping](Objects%20grasping%20and%20stacking/dynamic%20grasping.png)
 
 ---
 
