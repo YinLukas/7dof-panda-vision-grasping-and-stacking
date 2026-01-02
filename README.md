@@ -10,13 +10,6 @@ The full pipeline was first developed and tested in the Gazebo simulation enviro
 - Motion planning (APF & RRT)
 
 ---
-
-## 📷 Lab Setup
-
-![Lab Setup](Objects%20grasping%20and%20stacking/Lab_picture.jpg)
-
----
-
 ## 🧱 Static Grasping & Stacking
 
 ![Static Grasping](Objects%20grasping%20and%20stacking/static_grasping.png)
@@ -29,10 +22,16 @@ The full pipeline was first developed and tested in the Gazebo simulation enviro
 
 ---
 
-## 🏆 Final Competition Run
+## 📷 Lab Setup
 
 ![Competition](Objects%20grasping%20and%20stacking/Competition.jpg)
 
+---
+
+
+## 🏆 Final Competition Run
+
+![Lab Setup](Objects%20grasping%20and%20stacking/Lab_picture.jpg)
 ---
 
 More details will be added soon, including usage instructions and code structure.
